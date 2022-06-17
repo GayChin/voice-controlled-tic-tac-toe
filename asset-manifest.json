@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/voice-controlled-tic-tac-toe/static/css/main.d2663c4e.css",
-    "main.js": "/voice-controlled-tic-tac-toe/static/js/main.1f20f26b.js",
+    "main.js": "/voice-controlled-tic-tac-toe/static/js/main.df1a2f31.js",
     "static/js/845.4a013fc2.chunk.js": "/voice-controlled-tic-tac-toe/static/js/845.4a013fc2.chunk.js",
     "static/media/galaxy.mp3": "/voice-controlled-tic-tac-toe/static/media/galaxy.a50d78a06ab52aeaf8e7.mp3",
     "static/media/background.jpg": "/voice-controlled-tic-tac-toe/static/media/background.eff9bb2a9d6224d143ca.jpg",
     "static/media/button-hover.wav": "/voice-controlled-tic-tac-toe/static/media/button-hover.ae2de8e7e136703f3626.wav",
     "index.html": "/voice-controlled-tic-tac-toe/index.html",
     "main.d2663c4e.css.map": "/voice-controlled-tic-tac-toe/static/css/main.d2663c4e.css.map",
-    "main.1f20f26b.js.map": "/voice-controlled-tic-tac-toe/static/js/main.1f20f26b.js.map",
+    "main.df1a2f31.js.map": "/voice-controlled-tic-tac-toe/static/js/main.df1a2f31.js.map",
     "845.4a013fc2.chunk.js.map": "/voice-controlled-tic-tac-toe/static/js/845.4a013fc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2663c4e.css",
-    "static/js/main.1f20f26b.js"
+    "static/js/main.df1a2f31.js"
   ]
 }
