@@ -1,0 +1,39 @@
+.rule-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 30px;
+}
+.rules {
+  width: 500px;
+  height: 600px;
+  box-shadow: 0 0 2px #e4e152, 0 0 4px #e4e152, 0 0 6px #e4e152,
+    0 0 10px #e4e152, 0 0 45px #e4e152;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 30px;
+  row-gap: 20px;
+}
+
+.back-btn-rule {
+  align-self: flex-start;
+  justify-self: flex-start;
+  height: 20%;
+}
+
+.rules-title {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.rules-content {
+  color: white;
+  font-size: 25px;
+  align-self: flex-start;
+}
