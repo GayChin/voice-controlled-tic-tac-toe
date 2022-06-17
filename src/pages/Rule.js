@@ -11,7 +11,7 @@ const Rule = () => {
   return (
     <div className="rule-container">
       <div
-        className="back-btn-rule"
+        className="back-btn back-btn-rule"
         onMouseEnter={() => play()}
         onMouseLeave={() => stop()}
         onClick={() => {
