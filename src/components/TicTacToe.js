@@ -203,7 +203,6 @@ const TicTacToe = () => {
   };
 
   const Cell = ({num}) => {
-    console.log(numberArr[num]);
     return (
       <td>
         <div></div>
