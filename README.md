@@ -1,6 +1,14 @@
 ## Project Preview
-### Homepage
-![image](https://user-images.githubusercontent.com/56284497/174229353-26975b6a-6d38-4b20-82c7-cbb68691d1e0.png)
+This is a voice controlled tic tac toe game. Please take note this application only works on Chrome browser. 
+Each player will have to take turn and pronounce the number in the box they want to place. 
+The player that manages to place three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
-### Gamepage
-![image](https://user-images.githubusercontent.com/56284497/174229388-f6383deb-11a2-472e-bad5-3818924cefdc.png)
+### Gameplay
+https://github.com/GayChin/voice-controlled-tic-tac-toe/assets/56284497/755e2ac6-c7c0-40f9-81af-fdc38b1a4509
+
+### To run the application
+```
+npm install 
+npm start
+```
+
